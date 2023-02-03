@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:wheatherapp/services/weather_api_client.dart';
-import 'package:wheatherapp/views/additional_information.dart';
-import 'package:wheatherapp/views/current_weather.dart';
+import 'package:weatherapp/services/weather_api_client.dart';
+import 'package:weatherapp/views/additional_information.dart';
+import 'package:weatherapp/views/current_weather.dart';
 
 import 'model/weather_model.dart';
 
